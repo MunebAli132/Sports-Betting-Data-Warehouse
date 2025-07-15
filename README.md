@@ -8,7 +8,6 @@ This project is a data engineering case study for designing and implementing a *
 - Customer behavior  
 - Sports performance  
 
-The data is inspired by a fictional betting platform, **Tipico**, which collects betting activity from both registered and anonymous users across various sports events.
 
 ## Raw Data
 
@@ -30,10 +29,10 @@ The raw data is organized into several CSV files:
   - Match and league performance
   - Revenue analysis
 
-## Technologies (Recommended)
+## Technologies
 
 - Python / Pandas / SQL
 - PostgreSQL / SQLite
-- dbt (optional for modeling)
+- dbt (for modeling)
 - Jupyter Notebooks (for exploration)
 
