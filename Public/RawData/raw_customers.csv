@@ -1,0 +1,16 @@
+customer_id,registration_date,country,city,age_group,gender,acquisition_source,vip_status,preferred_sport,preferred_payment
+C5432,2022-05-15,Germany,Berlin,30-40,M,social_media,0,FTBL,credit_card
+C7891,2021-08-22,United Kingdom,London,20-30,F,affiliate,1,BSKT,e-wallet
+C2345,2023-01-10,Spain,Madrid,40-50,M,direct,1,FTBL,bank_transfer
+C8765,2022-11-05,Canada,Toronto,30-40,M,search_engine,0,HCKY,credit_card
+C3456,2021-03-18,United States,New York,20-30,F,affiliate,1,BSKT,e-wallet
+C9012,2022-07-30,Italy,Rome,40-50,M,social_media,0,FTBL,credit_card
+C1234,2023-02-14,France,Paris,30-40,F,direct,1,FTBL,bank_transfer
+C6789,2021-10-08,Spain,Barcelona,20-30,M,search_engine,1,FTBL,e-wallet
+C4321,2022-04-25,United States,Chicago,40-50,M,affiliate,0,HCKY,credit_card
+C5678,2021-12-03,Germany,Munich,30-40,F,direct,1,BSKT,bank_transfer
+C7890,2023-03-20,Italy,Milan,20-30,M,social_media,0,FTBL,e-wallet
+C2109,2022-09-12,United Kingdom,Manchester,40-50,F,search_engine,1,FTBL,credit_card
+C3210,2021-05-28,Spain,Valencia,30-40,M,affiliate,1,FTBL,bank_transfer
+C4567,2022-08-15,Canada,Montreal,20-30,F,direct,0,HCKY,e-wallet
+C8901,2021-11-19,United States,Los Angeles,40-50,M,social_media,1,BSKT,credit_card

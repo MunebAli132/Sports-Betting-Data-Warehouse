@@ -1,0 +1,31 @@
+transaction_id,timestamp,ip_address,user_agent,customer_id,bet_amount,currency,odds,bet_type,sport_code,league_code,match_id,selection,bet_status,device_type,payment_method
+TR10001,2023-11-01T08:15:22Z,192.168.1.45,Mozilla/5.0 (Windows NT 10.0),C5432,25.00,EUR,1.85,single,FTBL,EPL,M2023110101,home_win,settled,desktop,credit_card
+TR10002,2023-11-01T09:22:15Z,192.168.2.67,Mozilla/5.0 (iPhone; CPU iPhone OS 15_0),null,10.00,USD,2.10,single,FTBL,EPL,M2023110102,away_win,settled,mobile,null
+TR10003,2023-11-01T10:05:33Z,192.168.3.89,Mozilla/5.0 (Linux; Android 11),C7891,50.00,GBP,3.25,accumulator,BSKT,NBA,M2023110103,over_200.5,pending,mobile,e-wallet
+TR10004,2023-11-01T11:30:45Z,192.168.4.12,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15),null,15.00,EUR,1.65,single,TENN,ATP,M2023110104,player1_win,settled,tablet,null
+TR10005,2023-11-01T12:45:10Z,192.168.5.78,Mozilla/5.0 (Windows NT 10.0),C2345,100.00,EUR,2.50,single,FTBL,LALIGA,M2023110105,draw,settled,desktop,bank_transfer
+TR10006,2023-11-01T13:20:30Z,192.168.6.34,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0),null,5.00,USD,1.95,single,FTBL,EPL,M2023110106,home_win,cancelled,mobile,null
+TR10007,2023-11-01T14:15:22Z,192.168.7.91,Mozilla/5.0 (Linux; Android 10),C8765,30.00,EUR,4.50,accumulator,HCKY,NHL,M2023110107,away_win,settled,mobile,credit_card
+TR10008,2023-11-01T15:40:18Z,192.168.8.23,Mozilla/5.0 (Windows NT 10.0),null,20.00,GBP,1.75,single,FTBL,BUND,M2023110108,home_win,settled,desktop,null
+TR10009,2023-11-01T16:55:42Z,192.168.9.56,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14),C3456,75.00,EUR,2.20,single,BSKT,NBA,M2023110109,under_195.5,pending,desktop,e-wallet
+TR10010,2023-11-01T17:30:05Z,192.168.10.78,Mozilla/5.0 (iPhone; CPU iPhone OS 15_0),null,12.50,USD,3.00,single,FTBL,EPL,M2023110110,away_win,settled,mobile,null
+TR10011,2023-11-02T08:10:15Z,192.168.11.34,Mozilla/5.0 (Windows NT 10.0),C9012,40.00,EUR,1.90,single,FTBL,SERIEA,M2023110201,home_win,settled,desktop,credit_card
+TR10012,2023-11-02T09:25:30Z,192.168.12.67,Mozilla/5.0 (Linux; Android 11),null,8.00,GBP,2.30,single,TENN,WTA,M2023110202,player2_win,settled,mobile,null
+TR10013,2023-11-02T10:40:12Z,192.168.13.89,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15),C1234,60.00,EUR,5.50,accumulator,FTBL,EPL,M2023110203,draw,pending,desktop,bank_transfer
+TR10014,2023-11-02T11:55:28Z,192.168.14.12,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0),null,15.00,USD,1.70,single,BSKT,EURO,M2023110204,home_win,settled,mobile,null
+TR10015,2023-11-02T12:30:45Z,192.168.15.78,Mozilla/5.0 (Windows NT 10.0),C6789,90.00,EUR,2.80,single,FTBL,LALIGA,M2023110205,away_win,settled,desktop,e-wallet
+TR10016,2023-11-02T13:45:10Z,192.168.16.34,Mozilla/5.0 (Linux; Android 10),null,7.50,GBP,1.60,single,FTBL,EPL,M2023110206,home_win,cancelled,mobile,null
+TR10017,2023-11-02T14:20:30Z,192.168.17.91,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14),C4321,35.00,EUR,3.75,accumulator,HCKY,NHL,M2023110207,over_5.5,settled,desktop,credit_card
+TR10018,2023-11-02T15:15:22Z,192.168.18.23,Mozilla/5.0 (iPhone; CPU iPhone OS 15_0),null,18.00,USD,2.15,single,FTBL,BUND,M2023110208,draw,settled,mobile,null
+TR10019,2023-11-02T16:40:18Z,192.168.19.56,Mozilla/5.0 (Windows NT 10.0),C5678,120.00,EUR,1.95,single,BSKT,NBA,M2023110209,under_210.5,pending,desktop,bank_transfer
+TR10020,2023-11-02T17:55:42Z,192.168.20.78,Mozilla/5.0 (Linux; Android 11),null,9.00,GBP,2.40,single,FTBL,EPL,M2023110210,away_win,settled,mobile,null
+TR10021,2023-11-03T08:30:05Z,192.168.21.34,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15),C7890,55.00,EUR,1.80,single,FTBL,SERIEA,M2023110301,home_win,settled,desktop,e-wallet
+TR10022,2023-11-03T09:10:15Z,192.168.22.67,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0),null,11.00,USD,2.25,single,TENN,ATP,M2023110302,player1_win,settled,mobile,null
+TR10023,2023-11-03T10:25:30Z,192.168.23.89,Mozilla/5.0 (Windows NT 10.0),C2109,70.00,EUR,4.00,accumulator,FTBL,EPL,M2023110303,away_win,pending,desktop,credit_card
+TR10024,2023-11-03T11:40:12Z,192.168.24.12,Mozilla/5.0 (Linux; Android 10),null,14.00,GBP,1.55,single,BSKT,NBA,M2023110304,home_win,settled,mobile,null
+TR10025,2023-11-03T12:55:28Z,192.168.25.78,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_14),C3210,85.00,EUR,2.70,single,FTBL,LALIGA,M2023110305,draw,settled,desktop,bank_transfer
+TR10026,2023-11-03T13:30:45Z,192.168.26.34,Mozilla/5.0 (iPhone; CPU iPhone OS 15_0),null,6.50,USD,1.85,single,FTBL,EPL,M2023110306,home_win,cancelled,mobile,null
+TR10027,2023-11-03T14:45:10Z,192.168.27.91,Mozilla/5.0 (Windows NT 10.0),C4567,45.00,EUR,3.50,accumulator,HCKY,NHL,M2023110307,under_4.5,settled,desktop,e-wallet
+TR10028,2023-11-03T15:20:30Z,192.168.28.23,Mozilla/5.0 (Linux; Android 11),null,22.00,GBP,2.05,single,FTBL,BUND,M2023110308,away_win,settled,mobile,null
+TR10029,2023-11-03T16:15:22Z,192.168.29.56,Mozilla/5.0 (Macintosh; Intel Mac OS X 10_15),C8901,95.00,EUR,1.75,single,BSKT,EURO,M2023110309,over_180.5,pending,desktop,credit_card
+TR10030,2023-11-03T17:40:18Z,192.168.30.78,Mozilla/5.0 (iPhone; CPU iPhone OS 14_0),null,13.50,USD,2.90,single,FTBL,EPL,M2023110310,draw,settled,mobile,null

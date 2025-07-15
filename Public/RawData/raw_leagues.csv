@@ -1,0 +1,18 @@
+league_code,league_name,sport_code,country,tier,season_start,season_end
+EPL,English Premier League,FTBL,England,1,2023-08-12,2024-05-19
+LALIGA,La Liga,FTBL,Spain,1,2023-08-12,2024-05-26
+BUND,Bundesliga,FTBL,Germany,1,2023-08-18,2024-05-18
+SERIEA,Serie A,FTBL,Italy,1,2023-08-19,2024-05-26
+LIGUE1,Ligue 1,FTBL,France,1,2023-08-12,2024-05-19
+NBA,National Basketball Association,BSKT,United States,1,2023-10-24,2024-04-14
+EURO,EuroLeague Basketball,BSKT,Europe,1,2023-10-05,2024-05-26
+NHL,National Hockey League,HCKY,United States/Canada,1,2023-10-10,2024-04-18
+MLB,Major League Baseball,BSBL,United States,1,2023-03-30,2023-10-01
+ATP,Association of Tennis Professionals,TENN,Worldwide,1,2023-01-01,2023-11-26
+WTA,Women's Tennis Association,TENN,Worldwide,1,2023-01-01,2023-11-12
+CHAMP,EFL Championship,FTBL,England,2,2023-08-11,2024-05-04
+SERIEB,Serie B,FTBL,Italy,2,2023-08-18,2024-05-10
+LIGA2,La Liga 2,FTBL,Spain,2,2023-08-12,2024-06-02
+BL2,2. Bundesliga,FTBL,Germany,2,2023-07-28,2024-05-19
+NCAAB,NCAA Basketball,BSKT,United States,2,2023-11-06,2024-04-08
+KHL,Kontinental Hockey League,HCKY,Russia/Europe,2,2023-09-01,2024-04-30

@@ -1,0 +1,11 @@
+sport_code,sport_name,category,type,popularity_rank,avg_odds
+FTBL,Football,Team,Outdoor,1,2.10
+BSKT,Basketball,Team,Indoor,2,1.95
+TENN,Tennis,Individual,Mixed,3,2.25
+HCKY,Hockey,Team,Indoor,4,2.50
+BSBL,Baseball,Team,Outdoor,5,2.15
+GOLF,Golf,Individual,Outdoor,6,3.75
+RGBY,Rugby,Team,Outdoor,7,2.30
+CRKT,Cricket,Team,Outdoor,8,2.40
+VOLL,Volleyball,Team,Indoor,9,2.20
+HNDBL,Handball,Team,Indoor,10,2.35

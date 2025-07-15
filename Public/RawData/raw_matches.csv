@@ -1,0 +1,31 @@
+match_id,start_time,home_team,away_team,league_code,sport_code,venue,status,score,weather_conditions
+M2023110101,2023-11-01T15:00:00Z,Manchester United,Chelsea,EPL,FTBL,Old Trafford,completed,2-1,cloudy
+M2023110102,2023-11-01T17:30:00Z,Arsenal,Liverpool,EPL,FTBL,Emirates Stadium,completed,1-1,rainy
+M2023110103,2023-11-01T19:00:00Z,LA Lakers,Chicago Bulls,NBA,BSKT,Staples Center,completed,105-98,indoor
+M2023110104,2023-11-01T14:00:00Z,Novak Djokovic,Rafael Nadal,ATP,TENN,Roland Garros,completed,3-1,sunny
+M2023110105,2023-11-01T20:00:00Z,Barcelona,Real Madrid,LALIGA,FTBL,Camp Nou,completed,3-2,clear
+M2023110106,2023-11-01T15:00:00Z,Tottenham,West Ham,EPL,FTBL,Tottenham Stadium,cancelled,null,stormy
+M2023110107,2023-11-01T18:00:00Z,Boston Bruins,Toronto Maple Leafs,NHL,HCKY,TD Garden,completed,4-2,indoor
+M2023110108,2023-11-01T19:30:00Z,Bayern Munich,Borussia Dortmund,BUND,FTBL,Allianz Arena,completed,2-0,clear
+M2023110109,2023-11-01T20:00:00Z,Miami Heat,Brooklyn Nets,NBA,BSKT,American Airlines Arena,in_progress,78-75,indoor
+M2023110110,2023-11-01T15:00:00Z,Manchester City,Newcastle,EPL,FTBL,Etihad Stadium,completed,3-0,cloudy
+M2023110201,2023-11-02T19:00:00Z,AC Milan,Juventus,SERIEA,FTBL,San Siro,completed,1-2,rainy
+M2023110202,2023-11-02T14:00:00Z,Serena Williams,Naomi Osaka,WTA,TENN,Wimbledon,completed,2-0,cloudy
+M2023110203,2023-11-02T15:00:00Z,Leicester,Everton,EPL,FTBL,King Power Stadium,in_progress,1-1,cloudy
+M2023110204,2023-11-02T18:00:00Z,Real Madrid Basket,Barcelona Basket,EURO,BSKT,WiZink Center,completed,88-82,indoor
+M2023110205,2023-11-02T20:00:00Z,Atletico Madrid,Sevilla,LALIGA,FTBL,Wanda Metropolitano,completed,2-1,clear
+M2023110206,2023-11-02T15:00:00Z,Brighton,Crystal Palace,EPL,FTBL,Amex Stadium,cancelled,null,stormy
+M2023110207,2023-11-02T19:00:00Z,New York Rangers,Montreal Canadiens,NHL,HCKY,Madison Square Garden,completed,3-2,indoor
+M2023110208,2023-11-02T19:30:00Z,RB Leipzig,Bayer Leverkusen,BUND,FTBL,Red Bull Arena,completed,1-1,cloudy
+M2023110209,2023-11-02T20:00:00Z,Golden State Warriors,Dallas Mavericks,NBA,BSKT,Chase Center,in_progress,95-92,indoor
+M2023110210,2023-11-02T15:00:00Z,Aston Villa,Southampton,EPL,FTBL,Villa Park,completed,2-0,rainy
+M2023110301,2023-11-03T19:00:00Z,Inter Milan,Napoli,SERIEA,FTBL,San Siro,completed,2-2,clear
+M2023110302,2023-11-03T14:00:00Z,Roger Federer,Andy Murray,ATP,TENN,US Open,completed,3-0,sunny
+M2023110303,2023-11-03T15:00:00Z,Wolves,Brentford,EPL,FTBL,Molineux Stadium,in_progress,0-0,cloudy
+M2023110304,2023-11-03T18:00:00Z,Phoenix Suns,LA Clippers,NBA,BSKT,Phoenix Suns Arena,completed,110-103,indoor
+M2023110305,2023-11-03T20:00:00Z,Valencia,Villarreal,LALIGA,FTBL,Mestalla,completed,1-0,clear
+M2023110306,2023-11-03T15:00:00Z,Burnley,Leeds,EPL,FTBL,Turf Moor,cancelled,null,foggy
+M2023110307,2023-11-03T19:00:00Z,Pittsburgh Penguins,Washington Capitals,NHL,HCKY,PPG Paints Arena,completed,2-3,indoor
+M2023110308,2023-11-03T19:30:00Z,Eintracht Frankfurt,Wolfsburg,BUND,FTBL,Deutsche Bank Park,completed,3-1,cloudy
+M2023110309,2023-11-03T20:00:00Z,CSKA Moscow,Olympiacos,EURO,BSKT,Megasport Arena,in_progress,65-60,indoor
+M2023110310,2023-11-03T15:00:00Z,Fulham,Watford,EPL,FTBL,Craven Cottage,completed,2-1,rainy
